@@ -10,3 +10,4 @@ Dreem has a huge database composed of 1 000 000 of full night EEG recordings. We
 
 Project goals 📈
 We try to predict the gender of someone based on 40 windows of 2 seconds taken during sleep.
+
